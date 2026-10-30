@@ -1,0 +1,8 @@
+# Private material and backups of edited files
+_not_for_github/
+
+# Word lock files
+~$*.docx
+
+# OS files
+.DS_Store
